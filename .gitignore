@@ -1,0 +1,6 @@
+# Ignorar carpetas de entorno virtual
+__pycache__/
+prediction/
+
+# Ignorar archivo específico
+fasterrcnn_damage.pth
