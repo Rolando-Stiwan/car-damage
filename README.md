@@ -20,17 +20,17 @@ El modelo se basa en:
 
 ## 📂 Estructura del Proyecto
 📦 car-damage/
-┣ 📂 test/ 
-┣ 📂 train/ 
-┗ 📂 val/ 
-┣ 📜 config.py # Parámetros de configuración
-┣ 📜 dataset.py # Clase CocoDamageDataset y transformaciones
-┣ 📜 main.py # Donde se ejecuta todo
-┣ 📜 model.py # Definición y adaptación de Faster R-CNN
-┣ 📜 predict.py # Se hacen las predicciones 
-┣ 📜 README.md # Documentación
-┣ 📜 test.py # Script de prueba
-┣ 📜 train.py # Script principal de entrenamiento
+* ┣ 📂 test/ 
+* ┣ 📂 train/ 
+* ┗ 📂 val/ 
+* ┣ 📜 config.py # Parámetros de configuración
+* ┣ 📜 dataset.py # Clase CocoDamageDataset y transformaciones
+* ┣ 📜 main.py # Donde se ejecuta todo
+* ┣ 📜 model.py # Definición y adaptación de Faster R-CNN
+* ┣ 📜 predict.py # Se hacen las predicciones 
+* ┣ 📜 README.md # Documentación
+* ┣ 📜 test.py # Script de prueba
+* ┣ 📜 train.py # Script principal de entrenamiento
 
 ---
 
